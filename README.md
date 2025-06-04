@@ -1,6 +1,5 @@
 # Walmart-Sales-Analysis-and-Forecasting
-Walmart Sales Analysis and Forecasting project
-**Description:** Analysis of Walmart Sales data across its various Stores and Departments to identify key trends, seasonal patterns and forecast future weekly sales using Machine Learning and Time Series Modeling.
+This project aims to analyze Walmart's Sales data across its various Stores and Departments to identify key trends, seasonal patterns and forecast future weekly sales using Machine Learning and Time Series Modeling.
 
 **Key skills used:** 
 
