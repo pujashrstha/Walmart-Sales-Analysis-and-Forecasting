@@ -1,6 +1,8 @@
 # Walmart-Sales-Analysis-and-Forecasting
 This project aims to analyze Walmart's Sales data across its various Stores and Departments to identify key trends, seasonal patterns and forecast future weekly sales using Machine Learning and Time Series Modeling.
 
+Datasets for this project can be found in Kaggle website: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
+
 **Key skills used:** 
 
 - Time series analysis & forecasting
